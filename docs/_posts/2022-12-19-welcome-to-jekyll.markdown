@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "What is Time Resolved RNA-seq?"
 date:   2022-12-19 16:49:51 -0500
 categories: jekyll update
 ---

@@ -23,11 +23,6 @@ email: iwv.rnastats@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A series of vignettes to teach you everything you could want to know about
   time resolved RNA-seq methods (e.g., TimeLapse-seq, SLAM-seq, TUC-seq, etc.). 
-  Topics will include what we can learn with these methods, why they exist, how
-  to analyze data from these methods, and so much more! I'll also be discussing
-  the many extensions of these base methods, such as their scRNA-seq variants, STL-seq
-  to assess the kinetics of promoter proximal pausing, TT-TimeLapse-seq to probe nascent
-  RNA, and subcellular TimeLapse-seq.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: isaac_vock

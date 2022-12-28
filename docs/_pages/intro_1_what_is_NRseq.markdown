@@ -1,6 +1,6 @@
 ---
 # layout: post
-layout: page
+layout: default
 name:  "What is Time Resolved RNA-seq?"
 title: null
 # date:   2022-12-19 16:49:51 -0500

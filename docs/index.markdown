@@ -7,7 +7,7 @@ layout: default
 
 ## Introduction
 
-[What is Time Resolved RNA-seq](./intro_1_what_is_NRseq.markdown). An introduction to RNA-seq and how we can solve a key limitation of RNA-seq with metabolic labeling.
+[What is Time Resolved RNA-seq](./_pages/intro_1_what_is_NRseq.markdown). An introduction to RNA-seq and how we can solve a key limitation of RNA-seq with metabolic labeling.
 
 ## Analyzing Time Resolved RNA-seq
 

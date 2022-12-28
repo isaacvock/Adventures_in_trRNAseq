@@ -4,3 +4,10 @@
 
 layout: home
 ---
+
+# Introduction
+
+# Analyzing Time Resolved RNA-seq
+
+# Extensions of basic Time Resolved RNA-seq
+

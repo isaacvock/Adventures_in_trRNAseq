@@ -7,7 +7,7 @@ layout: default
 
 # Introduction
 
-## [What is Time Resolved RNA-seq](./intro_1_what_is_NRseq.markdown)
+[What is Time Resolved RNA-seq](./intro_1_what_is_NRseq.markdown)
 
 # Analyzing Time Resolved RNA-seq
 

@@ -13,7 +13,7 @@ This is a compendium of vignettes that will introduce you to an exciting develop
 
 ## Analyzing Time Resolved RNA-seq
 
-[Transient Transcriptome TimeLapse-seq](./_pages/extensions_1_TT_TL.markdown). An introduction to TT-TL-seq, an improved method to assess transcription with metabolic labeling and biochemical enrichment.
-
 ## Extensions of basic Time Resolved RNA-seq
+
+[Transient Transcriptome TimeLapse-seq](./_pages/extensions_1_TT_TL.markdown). An introduction to TT-TL-seq, an improved method to assess transcription with metabolic labeling and biochemical enrichment.
 

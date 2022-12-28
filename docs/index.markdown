@@ -7,7 +7,7 @@ layout: default
 # Welcome!
 This is a compendium of vignettes that will introduce you to an exciting development in transcriptomics: time resolved RNA-seq. In particular, these posts will discuss nucleotide recoding RNA-seq, a class of methods that combines metabolic labeling, unique chemistries, and high throughput sequencing to assess the kinetics of transcription and RNA degradation. These methods come in many flavors (TimeLapse-seq, SLAM-seq, TUC-seq, etc.), but analysis and interpretation of the data is identical in all cases. 
 
-## Starting out
+## Introduction
 
 [What is Time Resolved RNA-seq](./_pages/intro_1_what_is_NRseq.markdown). An introduction to RNA-seq and how we can solve a key limitation of RNA-seq with metabolic labeling.
 

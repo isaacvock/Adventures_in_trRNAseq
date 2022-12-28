@@ -7,6 +7,8 @@ layout: home
 
 # Introduction
 
+## [What is Time Resolved RNA-seq](./intro_1_what_is_NRseq.markdown)
+
 # Analyzing Time Resolved RNA-seq
 
 # Extensions of basic Time Resolved RNA-seq

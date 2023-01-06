@@ -10,7 +10,7 @@ This is a compendium of vignettes that will introduce you to an exciting develop
 
 ## Introduction
 
-[What is RNA-seq?](./_pages/intro_1_what_is_RNAseq.markdown). An introduction to RNA-seq and it's most common application, differential expression analysis. Also introduces a key limitation of RNA-seq that time resolved RNA-seq methods aim to address..
+[What is RNA-seq?](./_pages/intro_1_what_is_RNAseq.markdown). An introduction to RNA-seq and it's most common application, differential expression analysis. Also introduces a key limitation of RNA-seq that time resolved RNA-seq methods aim to address.
 
 ## Analyzing Time Resolved RNA-seq
 

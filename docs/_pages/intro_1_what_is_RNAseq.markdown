@@ -10,10 +10,10 @@ title: null
 
 ## What to expect, and what not to expect
 This post offers a high-level introduction to high-throughput RNA sequencing (RNA-seq). Topics discussed include:
-1. The central dogma and why we care about RNA
-2. A simple overview of how RNA-seq works and how we interpret RNA-seq data
-3. Brief discussion of differential expression analysis, a common application of RNA-seq
-4. A key limitation of differential expression analysis
+1. [The central dogma and why we care about RNA](#dogma)
+2. [A simple overview of how RNA-seq works and how we interpret RNA-seq data](#RNAseq)
+3. [Brief discussion of differential expression analysis, a common application of RNA-seq](#DEA)
+4. [A key limitation of differential expression analysis](#limited)
 
 The final point will segue nicely into a discussion of time resolved RNA-seq methods, which attempt to address the limitation discussed in that sub-topic. 
 
@@ -24,7 +24,7 @@ Some things not covered in this post include:
 
 This post assumes a basic knowledge of fundamental chemistry and biology, like what an atom is, or what cells are. Familiarity with some concepts from molecular biology, particularly DNA, RNA, proteins, and the central dogma will be very helpful, though the post starts with a crash course on these topics. If you are already well aware of what all these are, feel free to skip the first section. With all of that in mind, if you are still interested, read on!
 
-## The Central Dogma and the importance of RNA
+## The Central Dogma and the importance of RNA<a name="dogma"></a>
 In this day in age, the concept of DNA has become cemented into the public conscience. Most people have a vauge sense that DNA is the thing that makes each and every one of us unique. We think of it as responsible for our physical features (hair color, eye color, skin tone, height, etc.), our psychological disposition, and our individual health problems. DNA has even become a popular colloquialism synonomous with "things that make something what it is", like "the DNA of a company" or "the DNA of Relationships" (maybe a dated reference). But what IS DNA, and how has it become associated with all of these concepts?
 
 The answer to the first question is simple: DNA is a molecule. Like water, carbon dioxide, caffeine, or any other popular moleculas, DNA is an entity composed of a certain combination of atoms. In particular, DNA typically consists of five different types of atoms: carbon, oxygen, hydrogen, nitrogen, and phosphorus atoms. DNA stands for deoxyribonucleic acid, and the molecular structure of a single DNA molecule is shown in Figure 1. 
@@ -40,12 +40,12 @@ They use them to make RNA! RNA, as its name implies, is quite similar to DNA. A 
 ### Why bother making RNA?
 It might seem kind of weird that cells use a molecule to make a molecule very similar to the first molecule. Isn't that redundant and unnecessary? No!! An amazing fact of multicellular life such as yourself is that each and every one of your cells should contain the **exact same** DNA. The cook book of recipes stored in your skin cells is exactly the same as the cook book in the heart cells, and eye cells, and liver cells, et cetera et cetera. How is it possible for cells with the exact same cook books to produce such vastly different "meals"? The solution is that each cell picks and chooses which recipes to use to make RNA. This process of choosing to use some genes and not others is known as **gene expression regulation**. Gene expression regulation is a hot topic in scientific research, and has been for a couple decades now. Therefore, it is of utmost importance that we have methods to study this process in exquisite detail. That is where RNA-seq comes in. 
 
-## Assaying RNA in cells
+## Assaying RNA in cells<a name="RNAseq"></a>
 
 ### How can we study gene expression regulation?
 What we want is an experimental method that allows us determine which genes a group of cells is using, and which genes are going unused. The key insight when developing such a method is to realize that assaying RNA will give us the information we desire. If we know which RNAs are produced in our cells of interest, then we know which genes are being expressed. 
 
-## Differential expression analysis
+## Differential expression analysis<a name="DEA"></a>
 
-## Key limitation of differential expression analyses
+## Key limitation of differential expression analyses<a name="limited"></a>
    

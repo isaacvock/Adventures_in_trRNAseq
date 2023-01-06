@@ -6,7 +6,6 @@ title: null
 # date:   2022-12-19 16:49:51 -0500
 # categories: jekyll update
 ---
-Does this get rid of links at top?
 
 # A brief introduction to RNA-seq
 

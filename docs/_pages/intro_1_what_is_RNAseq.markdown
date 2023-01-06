@@ -6,22 +6,23 @@ title: null
 # date:   2022-12-19 16:49:51 -0500
 # categories: jekyll update
 ---
-# What to expect, and what not to expect
+## What to expect, and what not to expect
 This post offers a high-level introduction to high-throughput RNA sequencing (RNA-seq). Topics discussed include:
-	1. The central dogma and why we care about RNA
-	1. A simple overview of how RNA-seq works and how we interpret RNA-seq data
-	1. Brief discussion of differential expression analysis, a common application of RNA-seq
-	1. A key limitation of differential expression analysis
+1. The central dogma and why we care about RNA
+2. A simple overview of how RNA-seq works and how we interpret RNA-seq data
+3. Brief discussion of differential expression analysis, a common application of RNA-seq
+4. A key limitation of differential expression analysis
+
 The final point will segue nicely into a discussion of time resolved RNA-seq methods, which attempt to address the limitation discussed in that sub-topic. 
 
 Some things not covered in this post include:
-	1. How to perform RNA-seq in practice
-	1. The nitty gritty technical details of RNA-seq
-	1. The nitty gritty technical details of RNA-seq data analysis
+1. How to perform RNA-seq in practice
+2. The nitty gritty technical details of RNA-seq
+3. The nitty gritty technical details of RNA-seq data analysis
 
 This post assumes a basic knowledge of fundamental chemistry and biology, like what an atom is, or what cells are. Familiarity with some concepts from molecular biology, particularly DNA, RNA, proteins, and the central dogma will be very helpful, though the post starts with a crash course on these topics. If you are already well aware of what all these are, feel free to skip the first section. With all of that in mind, if you are still interested, read on!
 
-# The Central Dogma and the importance of RNA
+## The Central Dogma and the importance of RNA
 In this day in age, the concept of DNA has become cemented into the public conscience. Most people have a vauge sense that DNA is the thing that makes each and every one of us unique. We think of it as responsible for our physical features (hair color, eye color, skin tone, height, etc.), our psychological disposition, and our individual health problems. DNA has even become a popular colloquialism synonomous with "things that make something what it is", like "the DNA of a company" or "the DNA of Relationships" (maybe a dated reference). But what IS DNA, and how has it become associated with all of these concepts?
 
 The answer to the first question is simple: DNA is a molecule. Like water, carbon dioxide, caffeine, or any other popular moleculas, DNA is an entity composed of a certain combination of atoms. In particular, DNA typically consists of five different types of atoms: carbon, oxygen, hydrogen, nitrogen, and phosphorus atoms. DNA stands for deoxyribonucleic acid, and the molecular structure of a single DNA molecule is shown in Figure 1. 
@@ -32,9 +33,9 @@ But what are all of these DNA molecules actually doing? Well, as shown in Figure
 
 What do cells do with these recipes? They use them to make RNA! RNA, as its name implies, is quite similar to DNA. A comparison of the two molecules is presented in Figure 2: see if you can spot the difference. 
 
-# Assaying RNA in cells
+## Assaying RNA in cells
 
-# Differential expression analysis
+## Differential expression analysis
 
-# Key limitation of differential expression analyses
+## Key limitation of differential expression analyses
    

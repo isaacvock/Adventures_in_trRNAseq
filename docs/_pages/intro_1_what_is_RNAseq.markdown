@@ -6,10 +6,6 @@ title: null
 # date:   2022-12-19 16:49:51 -0500
 # categories: jekyll update
 ---
-
-# A brief introduction to RNA-seq
-
-## What to expect, and what not to expect
 This post offers a high-level introduction to high-throughput RNA sequencing (RNA-seq). Topics discussed include:
 1. [The central dogma and why we care about RNA](#dogma)
 2. [A simple overview of how RNA-seq works and how we interpret RNA-seq data](#RNAseq)

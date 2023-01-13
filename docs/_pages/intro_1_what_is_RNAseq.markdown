@@ -27,7 +27,7 @@ In this day in age, the concept of DNA has become cemented into the public consc
 The answer to the first question is simple: DNA is a molecule. Like water, carbon dioxide, caffeine, or any other popular moleculas, DNA is an entity composed of a certain combination of atoms. In particular, DNA typically consists of five different types of atoms: carbon, oxygen, hydrogen, nitrogen, and phosphorus atoms. DNA stands for deoxyribonucleic acid, and the molecular structure of a single DNA molecule is shown in Figure 1. 
 
 ![DNA](../assets/DNA.jpg)
-*Figure 1: The chemical structure of DNA. DNA comes in four different varieities distinguished by the composition of their nitrogenous bases. These four varieties are typically denoted by the a single letter: A, G, C, and T*
+**Figure 1:** *The chemical structure of DNA. DNA comes in four different varieities distinguished by the composition of their nitrogenous bases. These four varieties are typically denoted by the a single letter: A, G, C, and T*
 
 DNA resides inside the nucleus of each and every one of your cells. Here, DNA is not a single molecule like that shown in Figure 1 though, but is rather a massive polymer (i.e., copies of this molecule stitched together in a particular way). In a typical cell in the human body, there are about 6 billion of these molecules in total. Rather than all being part of a single chain of DNA molecules though, in humans they are separated into 46 different polymers, two copies each of 23 unique polymers called chromosomes. Furthermore, each chromosome consists of not one but TWO polymers that weave together in a choreographed molecular dance known as the double helix. The discovery of this fact, published in 1953, kicked off modern molecular biology as we know it.
 
@@ -43,7 +43,10 @@ It might seem kind of weird that cells use a molecule to make a molecule very si
 ## Assaying RNA in cells<a name="RNAseq"></a>
 
 ### How can we study gene expression regulation?
-What we want is an experimental method that allows us determine which genes a group of cells is using, and which genes are going unused. The key insight when developing such a method is to realize that assaying RNA will give us the information we desire. If we know which RNAs are produced in our cells of interest, then we know which genes are being expressed. 
+Let's make a checklist of what we want from an experimental method to study gene expression and its regulation:
+
+1. It should be high throughput. That means it should tell us about the expression of (almost) every single gene in a single experiment.
+2. 
 
 ## Differential expression analysis<a name="DEA"></a>
 

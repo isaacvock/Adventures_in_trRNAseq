@@ -87,9 +87,10 @@ Your cDNA is now ready for sequencing! The data provided by sequencers is in wha
 Above is a very basic overview of what an RNA-seq experimental workflow might look like But why do we care about the sequences of RNA? And how does this tell us about the abundances of each RNA in our sample? In this section, I want to give you an intuition for how these experiments provide us with useful information and how we should go about interpreting it.
 
 To understand RNA-seq, consider a simple analogy. Imagine you have a massive opaque jar filled with thousands of colored marbles. Let's say that there are 4 different colors of marble that could show up in this jar, and you want to know how abundant each color is. "Why not pour out the marbles and look"? Ah, because this is a magical jar, a jar that will allow this analogy to work. All you can do is remove one marble at a time, check its color, and return it to the jar. How can we go about determining how abundant each color of marble is?
-
+<p align="center">
 ![Jar](../assets/Jar_analogy.jpg)
 **Figure 2:** *An analogy for how RNA-seq works. The different colors of marbles are analogous to different RNA species (e.g., different transcripts). Each RNA-seq read is like drawing a single marble from the jar and inspecting its color. If you sample a marble 100 times, the fraction of the time you draw a certain color may not perfectly reflect that color's true proportion. The more marbles you draw though, the better your estimate will become.*
+</p>
 
 If we keep sampling marbles from the jar, we can keep track of how many times we observed each color. More abundant marbles will show up more times, and less abundant marbles less times. This is a random process though, so only taking a couple samples won't give you much confidence as to the composition of the jar. Say you pull 5 marbles, 3 blues, 1 red, 1 yellow, and no purples. That implies that 60% of marbles are blue, 20% are red, 20% are yellow, and none are purple. Are you sure that all of those numbers are exactly accurate though? Pull another 5 and you might get 1 blue, 0 reds, 2 yellows, and 2 purples. Yet another 5 might give you something completely different. 
 

@@ -89,7 +89,7 @@ Above is a very basic overview of what an RNA-seq experimental workflow might lo
 To understand RNA-seq, consider a simple analogy. Imagine you have a massive opaque jar filled with thousands of colored marbles. Let's say that there are 4 different colors of marble that could show up in this jar, and you want to know how abundant each color is. "Why not pour out the marbles and look"? Ah, because this is a magical jar, a jar that will allow this analogy to work. All you can do is remove one marble at a time, check its color, and return it to the jar. How can we go about determining how abundant each color of marble is?
 
 {:refdef: style="text-align: center;"}
-![Jar](../assets/Jar_analogy.jpg)
+![Jar](../assets/Jar.jpg)
 {: refdef}
 **Figure 2:** *An analogy for how RNA-seq works. The different colors of marbles are analogous to different RNA species (e.g., different transcripts). Each RNA-seq read is like drawing a single marble from the jar and inspecting its color. If you sample a marble 100 times, the fraction of the time you draw a certain color may not perfectly reflect that color's true proportion. The more marbles you draw though, the better your estimate will become.*
 
